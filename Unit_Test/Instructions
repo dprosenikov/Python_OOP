@@ -1,0 +1,6 @@
+Unit Tests
+
+Write tests for the PaintFactory class. 
+The class will have some methods, fields and one constructor, which are working properly. 
+You are NOT ALLOWED to change any class. 
+Cover the whole class with unit tests to make sure that the class is working as intended. 
